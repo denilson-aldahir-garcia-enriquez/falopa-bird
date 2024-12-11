@@ -1,2 +1,2 @@
 all:
-	g++ main.cpp -lsfml-graphics -lsfml-system -lsfml-window -o Game
+	g++ main.cpp Bird.cpp -lsfml-graphics -lsfml-system -lsfml-window -o Game
